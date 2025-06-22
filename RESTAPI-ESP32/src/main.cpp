@@ -3,8 +3,8 @@
 #include <ArduinoJson.h>
 
 // WiFi credentials
-const char* ssid = "A-1204";
-const char* password = "8318610633";
+const char* ssid = "Your_WiFi_UserName";
+const char* password = "Your_WiFi_Password";
 
 // Static IP configuration
 IPAddress local_IP(192, 168, 1, 171);
